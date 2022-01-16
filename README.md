@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## CS-458-Assignment-1
+This project is a WebGL unity application that shows blocks being randomly created that fly towards the camera. The blocks can either be red or blue and they will be destroyed if they hit the cylinder that has the same color as the block.
 
-You can use the [editor on GitHub](https://github.com/DingusPingus/CS-458-Assignment-1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+to see this application you must go to the [github page](https://dinguspingus.github.io/CS-458-Assignment-1/) with this repository.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Notes and Sources
+This project was created by Isaac Atta for CS 458 at the University of Regina.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DingusPingus/CS-458-Assignment-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+some sources I used: 
+* [Hosting a WebGL game Tutorial](https://medium.com/@aboutin/host-unity-games-on-github-pages-for-free-2ed6b4d9c324)
+* [Example Unity Documentation](https://docs.unity3d.com/ScriptReference/Vector3.MoveTowards.html)
+* [Create With Code Unity Tutorial](https://learn.unity.com/course/create-with-code)
+* [Moving GameObject to Position](https://answers.unity.com/questions/1030937/making-a-gameobject-move-to-a-position.html)
+* [Detecting Collisions](https://forum.unity.com/threads/detecting-collisions-without-rigidbody.376224/)
